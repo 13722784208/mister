@@ -3,7 +3,7 @@ package com.zzh.annotation;
 import java.util.Date;
 
 import static java.lang.System.*;
-/*测试我们Java内置的三个注解*/
+/*测试我们Java内置的三个注解、、、、、、*/
 public class OverrideTest  {
     public static void main(String[] args) {
         Date date = new Date();
